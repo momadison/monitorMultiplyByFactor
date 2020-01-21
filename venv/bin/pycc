@@ -1,0 +1,3 @@
+#!/Users/matthew.madison@ibm.com/IBM_projects/IOTmonitorStarter/functions/venv/bin/python
+from numba.pycc import main
+main()
